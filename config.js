@@ -1,7 +1,7 @@
 var details = {};
 /** node server port number **/
 details.portNumber = {
-    "port": process.env.port ||3000
+    "port": process.env.port ||8080
 };
 
 /** database connectivety  **/
